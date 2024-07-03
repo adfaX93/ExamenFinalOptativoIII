@@ -53,7 +53,7 @@ namespace Repository.Data.Proveedor
                            "mail = @Mail, " +
                            "celular = @Celular " +
                            "estado = @Estado " +
-                           "WHERE id_proveedor = @Id", proveedorModel);
+                           "WHERE id_proveedor = @IdProveedor", proveedorModel);
                 return true;
             }
             catch (Exception ex)
