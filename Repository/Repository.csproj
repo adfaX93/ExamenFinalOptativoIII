@@ -97,6 +97,7 @@
     <Compile Include="Data\Proveedor\IProveedorRepository.cs" />
     <Compile Include="Data\Proveedor\ProveedorModel.cs" />
     <Compile Include="Data\Proveedor\ProveedorRepository.cs" />
+    <Compile Include="Data\Sucursal\ISucursalRepository.cs" />
     <Compile Include="Data\Sucursal\SucursalModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
