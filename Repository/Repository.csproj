@@ -94,6 +94,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Data\ConfiguracionesDB\ConnectionDB.cs" />
+    <Compile Include="Data\Proveedor\ProveedorModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
