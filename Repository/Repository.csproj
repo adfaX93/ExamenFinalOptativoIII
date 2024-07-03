@@ -94,6 +94,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Data\ConfiguracionesDB\ConnectionDB.cs" />
+    <Compile Include="Data\DetallePedido\DetallePedidoModel.cs" />
     <Compile Include="Data\Producto\IProductoRepository.cs" />
     <Compile Include="Data\Producto\ProductoModel.cs" />
     <Compile Include="Data\Producto\ProductoRepository.cs" />
