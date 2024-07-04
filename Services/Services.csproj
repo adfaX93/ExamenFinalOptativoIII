@@ -44,7 +44,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Logica\PedidoCompraService.cs" />
+    <Compile Include="Logica\ProductoService.cs" />
     <Compile Include="Logica\ProveedorService.cs" />
+    <Compile Include="Logica\SucursalService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
